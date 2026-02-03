@@ -32,6 +32,15 @@ class script(object):
 ➤ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ + ʏᴇᴀʀ (ᴇx: ᴊᴏᴋᴇʀ 2019)  
 
 🚀 ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ!
+![☄️](tg://emoji?id=6320901479737597120) Bot नाम के नीचे अगर विज्ञापन (ads) दिखे तो उस पर 3- 4 बार क्लिक कर दे, ![⚠️](tg://emoji?id=6320837317221162843)![☄️](tg://emoji?id=6320901479737597120)Click 4-5 times on (Ads) below bot name to cancel it ![⚠️](tg://emoji?id=6320837317221162843)
+n2 
+<tg-emoji emoji-id="6320901479737597120">☄️</tg-emoji>
+Bot नाम के नीचे अगर विज्ञापन (ads) दिखे तो उस पर 3–4 बार क्लिक कर दे,
+<tg-emoji emoji-id="6320837317221162843">⚠️</tg-emoji>
+
+<tg-emoji emoji-id="6320901479737597120">☄️</tg-emoji>
+Click 4–5 times on (Ads) below bot name to cancel it
+<tg-emoji emoji-id="6320837317221162843">⚠️</tg-emoji>
 </b>"""
 
     ABOUT_TXT = """<b>╭────[ ᴍʏ ᴅᴇᴛᴀɪʟs ]────⍟
