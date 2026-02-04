@@ -4,6 +4,18 @@ class script(object):
 <b>ʜᴇʏ {}, {}</b>
 
 <b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
+
+<a href="{img}">&#8203;</a><tg-emoji emoji-id="6321173922398084063">⭐</tg-emoji> Hey {name} Welcome to <tg-emoji emoji-id="6323306309236038626">🍿</tg-emoji> Bot <tg-emoji emoji-id="6321320290588565035">🤖</tg-emoji>
+
+<tg-emoji emoji-id="6321325964240362008">❗️</tg-emoji> <b>ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ-ғɪʟᴛᴇʀ ʙᴏᴛ</b> <tg-emoji emoji-id="6321119462212770863">🗣️</tg-emoji>
+
+<tg-emoji emoji-id="6321325964240362008">❗️</tg-emoji> <b>ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴀʟʟ ᴍᴏᴠɪᴇs ᴀɴᴅ ᴡᴇʙ sᴇʀɪᴇs</b><tg-emoji emoji-id="5375464961822695044">🎬</tg-emoji>
+
+<tg-emoji emoji-id="5258396243666681152">🔎</tg-emoji> <b>ᴊᴜsᴛ sᴇɴᴅ ᴛʜᴇ ɢᴏᴏɢʟᴇ sᴘᴇʟʟɪɴɢ!</b><tg-emoji emoji-id="5454370584861384827">🔍</tg-emoji>
+
+<tg-emoji emoji-id="6321228227964574392">ℹ️</tg-emoji> <b>ᴊᴏ ʙʜɪ ᴍᴏᴠɪᴇ/ᴡᴇʙsᴇʀɪᴇs ᴅᴇᴋʜɴᴀ ʜᴏ ᴇɴɢʟɪsʜ ᴍᴇɴ ᴜsᴋᴀ ɴᴀᴀᴍ ʙʜᴇᴊᴇ.</b><tg-emoji emoji-id="6323223570986048376">✍️</tg-emoji><tg-emoji emoji-id="6323224799346695416">🍿</tg-emoji>
+
+<tg-emoji emoji-id="6323322084650916948">🟩</tg-emoji><tg-emoji emoji-id="6323498813965213364">🟩</tg-emoji><tg-emoji emoji-id="6320925046223150523">🟩</tg-emoji><tg-emoji emoji-id="6320951799574436533">🟩</tg-emoji><tg-emoji emoji-id="6323445633680154253">🟩</tg-emoji><tg-emoji emoji-id="6321303986892708556">🟩</tg-emoji><tg-emoji emoji-id="6323535943957487433">🟩</tg-emoji><tg-emoji emoji-id="6323113439434644381">🟩</tg-emoji>
 """
 
 
