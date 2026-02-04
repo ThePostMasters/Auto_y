@@ -5,7 +5,7 @@ class script(object):
 
 <b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
 
-<a href="{img}">&#8203;</a><tg-emoji emoji-id="6321173922398084063">⭐</tg-emoji> Hey {name} Welcome to <tg-emoji emoji-id="6323306309236038626">🍿</tg-emoji> Bot <tg-emoji emoji-id="6321320290588565035">🤖</tg-emoji>
+<a href=https://t.me/{}>{}</a> , <tg-emoji emoji-id="6321173922398084063">⭐</tg-emoji> Hey {name} Welcome to <tg-emoji emoji-id="6323306309236038626">🍿</tg-emoji> Bot <tg-emoji emoji-id="6321320290588565035">🤖</tg-emoji>
 
 <tg-emoji emoji-id="6321325964240362008">❗️</tg-emoji> <b>ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ-ғɪʟᴛᴇʀ ʙᴏᴛ</b> <tg-emoji emoji-id="6321119462212770863">🗣️</tg-emoji>
 
